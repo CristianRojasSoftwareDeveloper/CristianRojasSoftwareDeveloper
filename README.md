@@ -1,10 +1,12 @@
-# Cristian Rojas - Ingeniero Informático
+# Cristian Rojas Arredondo - Ingeniero Informático
 
-## Hola, bienvenido a mi perfil 👋
+![Banner](https://github.com/user-attachments/assets/cebb2cad-b566-4c8a-bcce-35d0e17b709e)
+
+## ¡Hola!, bienvenido a mi perfil 👋
 
 ### Acerca de mí
 
-Soy un Ingeniero Informático especializado en la ingeniería, la arquitectura y el desarrollo de software. En mis proyectos combino creatividad con metodologías modernas, buscando siempre soluciones escalables y eficientes. Mi enfoque se centra en la integración de tecnologías como «C#», «Python» y «.NET», además de mantenerme actualizado en áreas emergentes como la computación en la nube y la inteligencia artificial. Mi objetivo es aportar valor tanto en proyectos individuales como en equipos multidisciplinarios, impulsando la innovación y la eficiencia en cada solución.
+Soy un Ingeniero Informático especializado en la ingeniería, arquitectura y el desarrollo de software. En mis proyectos combino creatividad con metodologías modernas, buscando siempre soluciones escalables y eficientes. Mi enfoque se centra en la integración de tecnologías como «C#», «Python» y «.NET», además de mantenerme actualizado en áreas emergentes como la computación en la nube y la inteligencia artificial. Mi objetivo es aportar valor tanto en proyectos individuales como en equipos multidisciplinarios, impulsando la innovación y la eficiencia en cada solución.
 
 ### 1. Integración en equipos de alto desempeño
 
